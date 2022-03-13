@@ -1,2 +1,2 @@
 # My system programming homework
-## see details in respective repo
+## See details in respective repo
